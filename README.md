@@ -1,1 +1,3 @@
-# Traitement_de_donnees
+# Traitement de donnees
+
+### Etude de cas: longueur et largeur de pétale, longueur et largeur de sépal...
