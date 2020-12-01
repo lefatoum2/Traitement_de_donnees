@@ -1,3 +1,6 @@
 # Traitement de donnees
 
 ### Etude de cas: longueur et largeur de pétale, longueur et largeur de sépal...
+
+######## Visualisation , Suppression des données manquantes, Attribution de données aléatoires, Transformer les valeurs manquantes en moyenne (SimpleImputer), Fractionner le jeu de données pour l’entrainement et le test (Training and Test set), Encoder les valeurs catégoriques (LabelEncoder), mise à l’échelle des features (StandardScaler), 
+ Mesure de tendance centrale, Visualisation de données sous forme de nuage de points,  Analyse de la variance, Analyse de corrélations...
