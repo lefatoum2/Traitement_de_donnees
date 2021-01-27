@@ -76,7 +76,9 @@ Utlilisez le jeu de données (iris.csv)
 
 Utlilisez le jeu de données (iris.csv)
 
-##### 5.3.2 Analyse mathématique : coefficient de corrélation de Pearson Le coefficient de corrélation linéaire simple, dit de Bravais-Pearson(ou de Pearson), est une normalisation de la covariance par le produit des écarts-type des variables : rx,y = COV(X,Y) / (E(X) x E(Y)) Avec les outils et bibliothèques de Python, calculez le coefficient de corrélation de Pearson sur la base de données fournie et interprétez les résultats.
+##### 5.3.2 Analyse mathématique : coefficient de corrélation de Pearson 
+
+Le coefficient de corrélation linéaire simple, dit de Bravais-Pearson(ou de Pearson), est une normalisation de la covariance par le produit des écarts-type des variables : rx,y = COV(X,Y) / (E(X) x E(Y)) Avec les outils et bibliothèques de Python, calculez le coefficient de corrélation de Pearson sur la base de données fournie et interprétez les résultats.
 
 Utlilisez le jeu de données (iris.csv)
 
