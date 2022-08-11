@@ -1,5 +1,7 @@
 # Traitement de donnees
 
+![](https://img.static-rmg.be/a/view/q75/w/h/2258915/jim-carrey-gif.gif)
+
 ### Etude de cas: longueur et largeur de pétale, longueur et largeur de sépal...
 
 ######## Visualisation , Suppression des données manquantes, Attribution de données aléatoires, Transformer les valeurs manquantes en moyenne (SimpleImputer), Fractionner le jeu de données pour l’entrainement et le test (Training and Test set), Encoder les valeurs catégoriques (LabelEncoder), mise à l’échelle des features (StandardScaler), 
